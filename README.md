@@ -14,3 +14,6 @@
 3. `./mvnw clean package`
 4. `cd target`
 5. `java -jar yatguidebot-1.0.alpha.jar`
+---
+
+### find 'yat_guide_bot' in telegram and test
